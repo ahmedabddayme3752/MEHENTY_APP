@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107186198982",
+    "firebase_url": "https://mehenty-app-default-rtdb.firebaseio.com",
+    "project_id": "mehenty-app",
+    "storage_bucket": "mehenty-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107186198982:android:99852f5a709d29f514bac7",
+        "android_client_info": {
+          "package_name": "com.example.mehenty_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Fz4L752Nx4N_iXwo5qiZVeUzH0Rfyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
