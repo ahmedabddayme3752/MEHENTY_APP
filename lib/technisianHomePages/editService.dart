@@ -20,7 +20,7 @@ class _editServiceState extends State<editService> {
   TextEditingController serviceName = TextEditingController();
   TextEditingController serviceInfo = TextEditingController();
       TextEditingController servicePrice = TextEditingController();
-  List<String> PaymentMehod = ['Gcash', 'Maya', 'COD'];
+  List<String> PaymentMehod = ['Gcash', 'Bankily', 'Masrevy'];
   String? value;
 
   // int? servicePrice;
@@ -101,7 +101,7 @@ class _editServiceState extends State<editService> {
                       decoration: const InputDecoration(
                           border: InputBorder.none,
                           prefixIcon: Icon(
-                            FontAwesome5.car_crash,
+                            FontAwesome5.servicestack,
                             color: Colors.blue,
                             size: 25,
                           ),

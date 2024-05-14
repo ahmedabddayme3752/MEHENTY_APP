@@ -135,7 +135,7 @@ class _servicesUploadPage extends State<servicesUploadPage> {
                                             mainAxisSize: MainAxisSize.max,
                                             children: [
                                               const Icon(
-                                                FontAwesome5.car_crash,
+                                                FontAwesome5.servicestack,
                                                 color: Colors.blue,
                                                 size: 25,
                                               ),

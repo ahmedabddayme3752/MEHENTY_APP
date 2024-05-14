@@ -21,7 +21,7 @@ class _viewCarHistory extends State<viewCarHistory> {
             const Padding(
               padding: EdgeInsets.all(8.0),
               child: Text(
-                "History Of Car Fixing",
+                "History Of Service Fixing",
                 style: TextStyle(
                   color: Colors.blue,
                   fontWeight: FontWeight.bold,

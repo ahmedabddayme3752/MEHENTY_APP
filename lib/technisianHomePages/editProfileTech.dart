@@ -151,7 +151,7 @@ class _editProfileTech extends State<editProfileTech> {
                         decoration: const InputDecoration(
                             border: InputBorder.none,
                             prefixIcon: Icon(
-                              FontAwesome5.car_crash,
+                              FontAwesome5.servicestack,
                               color: Colors.blue,
                               size: 25,
                             ),

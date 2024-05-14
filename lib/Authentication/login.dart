@@ -43,7 +43,7 @@ class _LoginState extends State<Login> {
               child: Image.asset(
                 "img/r1.png",
                 height: 200.0,
-                width: 200.0,
+                width: _screenWidth*0.25,
               ),
             ),
             const Padding(
